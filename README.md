@@ -10,8 +10,6 @@ This repository contains my certificates, workshops, training programs, and proj
 ### Electronics & Embedded Systems
 - ASIC Design – Cadence, VIT
 - Long-Range Wireless Communication using LoRa & ESP32
-
-### Digital Electronics
 - Digital 101 – NASSCOM
 
 ### Projects
